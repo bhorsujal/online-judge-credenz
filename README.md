@@ -470,7 +470,7 @@ docker-compose logs -f worker
 ##  **Acknowledgments**
 
 ### **Contributors**
-- **[Avadhut Giri](https://github.com/Avadhutgiri)** - Project Creator & Lead Developer
+- **[Sujal Bhor](https://github.com/Avadhutgiri)** - Project Creator & Lead Developer
   
 ### **Inspiration**
 - **Codeforces** - Contest platform inspiration
