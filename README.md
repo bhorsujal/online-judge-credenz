@@ -509,8 +509,4 @@ Special thanks to the amazing open-source communities behind:
 
 **[⭐ Star this repository](https://github.com/Avadhutgiri/my-online-judge) • [ Fork for your use](https://github.com/Avadhutgiri/my-online-judge/fork) • [📝 Report Issues](https://github.com/Avadhutgiri/my-online-judge/issues)**
 
----
-
-*Made with passion by **[Avadhut Giri](https://github.com/Avadhutgiri)** *
-
 </div>
